@@ -22,7 +22,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/SlavaDoroshenko/to-do-list-app.git
+   git clone https://github.com/batman565/ToDO-List/
    cd to-do-list-app
    npm i
    npx json-server --watch db.json --port 5000
